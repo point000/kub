@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/point000/kub.git"
   },
+  "publishConfig": {
+    "@point000:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,3 +20,4 @@
   },
   "homepage": "https://github.com/point000/kub#readme"
 }
+
