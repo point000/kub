@@ -1,0 +1,19 @@
+{
+  "name": "kubpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/point000/kub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/point000/kub/issues"
+  },
+  "homepage": "https://github.com/point000/kub#readme"
+}
