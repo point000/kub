@@ -1,5 +1,5 @@
 {
-  "name": "kubpackage",
+  "name": "@point000/kubpackage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/point000/kub.git"
+    "url": "git+https://github.com/point000/kubpackage.git"
   },
   "publishConfig": {
     "@point000:registry": "https://npm.pkg.github.com"
